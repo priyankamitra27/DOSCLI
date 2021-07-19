@@ -1,0 +1,15 @@
+destinationEntity:
+  destinationName: 
+  destinationType: local
+schemaVersion: 0
+schemaType: Binding
+name: DiabetesDxEvent
+description: 
+contentId: 90cccacc-1ab8-44da-9bb1-823f561cbf62
+sourceDataStore: 
+type: SQL
+status: In Development
+loadType: Full
+script: !script DiabetesDxEvent.sql
+objectRelationships: []
+attributeValues: []
