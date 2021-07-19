@@ -1,0 +1,15 @@
+destinationEntity:
+  destinationName: 
+  destinationType: local
+schemaVersion: 0
+schemaType: Binding
+name: SummaryMetric
+description: 
+contentId: 05316648-d86e-4e64-b9e0-112edaa20c8e
+sourceDataStore: 
+type: SQL
+status: In Development
+loadType: Full
+script: !script SummaryMetric.sql
+objectRelationships: []
+attributeValues: []
